@@ -1,0 +1,17 @@
+.title{
+    background-color:#263238;
+    color:white;
+    
+}
+.title h1{
+    margin:0px;
+    padding: 15px 0px;
+}
+.hola{
+  margin: 10px;
+   border: 2px green solid;
+}
+
+.centro{
+  text-align: center;
+}
